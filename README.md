@@ -31,13 +31,6 @@ This project focuses on building an interactive Financial Analysis Dashboard usi
 
 * Enabled decision-makers to drill down into product-level profitability.
 
-# 📂 File Structure
-
-📁 PowerBI_Financial_Analysis
-│── 📄 powerbi_portfolio_project.pbix   # Power BI dashboard file
-│── 📄 README.md                        # Project documentation
-│── 📊 financial_sample.xlsx            # Dataset (if included)
-
 # 📸 Dashboard Preview
 
 💡 Conclusion
